@@ -1,19 +1,20 @@
-# CPE322
+# WELCOME to MY CPE322 REPO
 
-**CPE322**
+**BOLD TO EMPHASIS TEXT**
 
-*CPE322*
+*You must italicize the title of a book.*
 
-> CPE322
+> I'd rather take coffee than compliments just now.
 
-1. CPE322
-2. CPE322
-3. CPE322
+Shopping List
+1. Orange
+2. Milk
+3. Eggs
 
 
-- CPE332
-- CPE332
-- CPE332
+- Option 1
+- Option 2
+- OPtion 3
 
 
 `Hello World!`
