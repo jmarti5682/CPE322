@@ -4,17 +4,20 @@
 
 *You must italicize the title of a book.*
 
+
 > I'd rather take coffee than compliments just now.
 
-Shopping List
+Quote from Louisa May Alcott, Little Women
+
+## Shopping List
 1. Orange
 2. Milk
 3. Eggs
 
-
-- Option 1
-- Option 2
-- OPtion 3
+## Things I enjoy
+- Coffee
+- Learning
+- Crocheting
 
 
 `Hello World!`
