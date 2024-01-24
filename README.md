@@ -24,7 +24,6 @@ Quote from Louisa May Alcott, Little Women
 
 ---
 
-[My Github](https://github.com/jmarti5682)
+[My GitHub](https://github.com/jmarti5682)
 
-[![Cat](cat.jpg "A random cat off of google")](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
-
+![Cat](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
