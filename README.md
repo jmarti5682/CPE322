@@ -7,7 +7,7 @@
 
 > I'd rather take coffee than compliments just now.
 
-Quote from Louisa May Alcott, Little Women
+Quote from Louisa May Alcott, *Little Women*
 
 ## Shopping List
 1. Orange
