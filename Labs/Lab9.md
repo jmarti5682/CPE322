@@ -5,4 +5,8 @@
 
 ### Image File
 
+![image](../Images/Lab9/png.png)
+
 ### Folder
+
+![image](../Images/Lab9/files.png)
