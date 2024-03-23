@@ -12,7 +12,7 @@
 -  [Lab 9](https://github.com/jmarti5682/CPE322/blob/main/Labs/Lab9.md) - YANG
 -  [Lab 10](https://github.com/jmarti5682/CPE322/blob/main/Labs/Lab_10.md) - Blockchain
 
-### Format inspired by Rebecca Kaspar ###
+***Format inspired by Rebecca Kaspar***
 
 
 
